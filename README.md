@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 19 Progressive Web Applications (PWA): Text Editor
 
 ## Your Task
@@ -142,3 +143,4 @@ You are required to submit the following for review:
 
 - - -
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
